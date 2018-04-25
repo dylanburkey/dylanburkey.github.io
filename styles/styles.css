@@ -9,8 +9,7 @@ h1 {
 
 .container {
 	marign: auto;
-	backgroun: #eee;
-	max-width: 50rem;
-	color: #333;
-	font-family: sans-serif;
+	background: #eee;
+	max-width: 960px;
+
 }
